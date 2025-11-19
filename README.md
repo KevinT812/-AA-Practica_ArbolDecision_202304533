@@ -4,7 +4,7 @@
 **Curso:** Análisis de Algoritmos  
 **Instructor:** Ing. César Sazo  
 **Práctica:** Árbol de Decisión y Flujo GitFlow  
-**Nombre:** Kevin Alberto Tinay Pérez  
+**Nombre:** Sergio Agustin 
 **Carnet:** 202304533  
 **Fecha de entrega:** 18/11/2025
 
