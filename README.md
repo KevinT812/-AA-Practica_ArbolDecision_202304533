@@ -83,16 +83,25 @@ Clasificación:
 ## Resultados
 
 Primeros 10 ejemplos:\
-
+65 → Alto  
+7 → Bajo  
+5 → Bajo  
+31 → Bajo  
+14 → Bajo  
+7 → Bajo  
+80 → Alto  
+63 → Alto  
+83 → Alto  
+75 → Alto  
 
 ### Conteos finales
 
--   Altos: xxx\
--   Bajos: xxx
+-   Altos: 502
+-   Bajos: 498
 
 ### Tiempo total
 
-0.00xxx segundos
+0.0313 segundos
 
 ## Evidencias
 
