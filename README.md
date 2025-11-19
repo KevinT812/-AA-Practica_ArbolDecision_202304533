@@ -4,7 +4,7 @@
 **Curso:** Análisis de Algoritmos  
 **Instructor:** Ing. César Sazo  
 **Práctica:** Árbol de Decisión y Flujo GitFlow  
-**Nombre:** Sergio Agustin 
+**Nombre:** Sergio Agustin
 **Carnet:** 202304533  
 **Fecha de entrega:** 18/11/2025
 
